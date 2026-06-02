@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="crack.png" alt="Enthymeme Detection and Reconstruction - Argument Mining Pipeline" width="100%">
+</p>
+
+<br>
 # Image Analysis Project – Basic Crack Detection
 
 ## Overview
