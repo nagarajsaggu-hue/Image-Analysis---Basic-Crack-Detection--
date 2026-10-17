@@ -106,7 +106,7 @@ The MATLAB script currently contains absolute Windows paths:
 
 ```matlab
 imageFolder = "C:\Users\r0nit\Desktop\re_proj\crack_images";
-annotationFolder = "C:\Users\r0nit\Desktop\re_proj\crack_annotation";
+annotationFolder = "C:\Users\\Desktop\re_proj\crack_annotation";
 ```
 
 Before running the script, update these paths according to your local computer.
