@@ -1,7 +1,7 @@
 % ----------------------------------
 % Folder Setup and Image Loading
 % ----------------------------------
-imageFolder = "C:\Users\r0nit\Desktop\re_proj\crack_images";  % Folder for original images
+imageFolder = "C:\Users\Desktop\re_proj\crack_images";  % Folder for original images
 annotationFolder = "C:\Users\Desktop\re_proj\crack_annotation";  % Folder for annotated images
 
 imageFiles = dir(fullfile(imageFolder, '*.jpeg'));  % Assuming .jpeg format for images
